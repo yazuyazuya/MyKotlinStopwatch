@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyKotlinStopwatch</string>
+    <string name="startText">START</string>
+    <string name="stopText">STOP</string>
+    <string name="resetText">RESET</string>
+    <string name="firstText">STRATを押してください</string>
+</resources>
